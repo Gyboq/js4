@@ -1,0 +1,18 @@
+#poke-search {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    text-align: center;
+    width: 200px;
+    margin: 16px auto;
+    box-shadow: 1px 1px 6px 2px black;
+}
+.error {
+    color: red;
+    text-align: center;
+}
